@@ -32,3 +32,8 @@
 
 ![Photoshop](https://img.shields.io/badge/-Photoshop-blue)
 ![Figma](https://img.shields.io/badge/-Figma-ff69b4)
+
+## Links
+
+[![VK](https://img.shields.io/badge/-VK-blue)](https://vk.com/fiverust_ru)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue)](https://t.me/shark0ff)
