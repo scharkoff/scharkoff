@@ -26,6 +26,7 @@
 # Other skills
 
 ![Java](https://img.shields.io/badge/-Java-purple)
+![PHP](https://img.shields.io/badge/-PHP-blue)
 ![Pascal](https://img.shields.io/badge/-Pascal-lightgrey)
 
 # Graphic editors
