@@ -6,21 +6,22 @@
 
 # Front-end
 
-![React](https://img.shields.io/badge/-React-blue)
-![Redux](https://img.shields.io/badge/-Redux-blueviolet)
+![JavaScript (ES6+)](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&color=%23FFCE5A) 
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=black)
+![SCSS](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=html5&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)
+![Gulp](https://img.shields.io/badge/-Gulp-red?style=flat&logo=gulp&logoColor=F59895)
 ![FetchAPI](https://img.shields.io/badge/-FetchAPI-orange)
 ![MaterialUI](https://img.shields.io/badge/-MaterialUI-9cf)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-9cf)
-![Gulp](https://img.shields.io/badge/-Gulp-red)
-![HTML](https://img.shields.io/badge/-HTML-critical)
-![CSS](https://img.shields.io/badge/-CSS-blue)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 
 # Back-end
 
-![Node.js](https://img.shields.io/badge/-Node.js-green)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js&color=black)
 ![Express.js](https://img.shields.io/badge/-Express.js-blue)
-![MySQL](https://img.shields.io/badge/-MySQL-red)
+![MySQL](https://img.shields.io/badge/-MySQL-red?style=flat&logo=mysql&color=black&logoColor=5DCEF5)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-orange)
 
 # Other skills
