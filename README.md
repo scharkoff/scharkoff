@@ -6,7 +6,7 @@ Student of Moscow Polytechnic University
 - Try to write clean and readable code
 - Write the client and server parts
 
-# Frontend
+## Frontend
 
 ![JavaScript (ES6+)](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&color=%23FFCE5A) 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -19,29 +19,29 @@ Student of Moscow Polytechnic University
 ![MaterialUI](https://img.shields.io/badge/-MaterialUI-9cf)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-9cf)
 
-# Backend
+## Backend
 
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js&color=black)
 ![Express.js](https://img.shields.io/badge/-Express.js-blue)
 ![MySQL](https://img.shields.io/badge/-MySQL-red?style=flat&logo=mysql&color=black&logoColor=5DCEF5)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-orange)
 
-# Other skills
+## Other skills
 
 ![Java](https://img.shields.io/badge/-Java-purple)
 ![PHP](https://img.shields.io/badge/-PHP-blue)
 ![Pascal](https://img.shields.io/badge/-Pascal-lightgrey)
 
-# Graphic editors
+## Graphic editors
 
 ![Photoshop](https://img.shields.io/badge/-Photoshop-blue)
 ![Figma](https://img.shields.io/badge/-Figma-ff69b4)
 
-# Links
+## Links
 
 [![VK](https://img.shields.io/badge/-VK-blue)](https://vk.com/fiverust_ru)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue)](https://t.me/shark0ff)
 
-# Stats  
+## Stats  
   
 ![scharkoff Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scharkoff&layout=compact&count_private=true&theme=material-palenight)
