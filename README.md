@@ -22,9 +22,9 @@ Student of Moscow Polytechnic University
 ## Backend
 
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js&color=black)
-![Express.js](https://img.shields.io/badge/-Express.js-blue)
 ![MySQL](https://img.shields.io/badge/-MySQL-red?style=flat&logo=mysql&color=black&logoColor=5DCEF5)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-orange)
+![Express.js](https://img.shields.io/badge/-Express.js-blue)
 
 ## Other skills
 
