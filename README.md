@@ -41,7 +41,3 @@ Student of Moscow Polytechnic University
 
 [![VK](https://img.shields.io/badge/-VK-blue)](https://vk.com/fiverust_ru)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue)](https://t.me/shark0ff)
-
-## Stats  
-  
-![scharkoff Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scharkoff&layout=compact&count_private=true&theme=material-palenight)
