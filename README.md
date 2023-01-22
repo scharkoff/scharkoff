@@ -6,7 +6,7 @@ Student of Moscow Polytechnic University
 - Try to write clean and readable code
 - Write the client and server parts
 
-## Frontend
+<!-- ## Frontend
 
 ![JavaScript (ES6+)](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&color=%23FFCE5A) 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -40,4 +40,4 @@ Student of Moscow Polytechnic University
 ## Links
 
 [![VK](https://img.shields.io/badge/-VK-blue)](https://vk.com/fiverust_ru)
-[![Telegram](https://img.shields.io/badge/-Telegram-blue)](https://t.me/shark0ff)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue)](https://t.me/shark0ff) -->
